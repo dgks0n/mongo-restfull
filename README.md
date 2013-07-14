@@ -6,7 +6,7 @@ The Mongo Data Service is a RESTful data service intended for use in a distribut
 
 
 ## Quick Start
-1. <code>git clone git@github.com:gsharma/mongo-rest.git</code>  
+1. <code>git clone git@github.com:dangokuson/mongo-restfull.git</code>  
 2. Fire up <code>mongod</code>, then <code>mvn install</code>  
 3. Take a read of the Deployment section.  
 
